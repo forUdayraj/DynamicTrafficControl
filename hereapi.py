@@ -14,8 +14,8 @@ import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import XML, fromstring, tostring
 from supportFile import *
 
-app_id = 'WeHEo2P2K8EG4bUYxyY4'
-app_code = 'DA6FLaBn6Z8ybBH4JlVXwg'
+app_id = 'your app id'
+app_code = 'your app code'
 
 def calculate_traffic(lat,lon):
  
